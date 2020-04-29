@@ -68,11 +68,10 @@ ul li {
 }
 
 .img-inline {
-  style: vertical-align;
   position: relative;
-  top: 0;
-  left: 0;
-  width: 100%;
+  top: 0px;
+  right: 0px;
+  width: 200px;
   height: 100%;
   margin: 0px 15px;
 }
